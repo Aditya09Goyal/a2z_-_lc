@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
