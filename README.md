@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
