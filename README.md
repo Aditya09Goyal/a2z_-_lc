@@ -57,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 ## Breadth-First Search
 |  |
@@ -83,8 +84,17 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 ## Binary Tree
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
