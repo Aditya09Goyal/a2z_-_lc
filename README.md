@@ -64,6 +64,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,10 +77,12 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
