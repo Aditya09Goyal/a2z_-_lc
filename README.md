@@ -96,9 +96,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0021-merge-two-sorted-lists) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
