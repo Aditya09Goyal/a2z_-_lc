@@ -14,6 +14,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 | [1463-cherry-pickup-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1463-cherry-pickup-ii) |
+| [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
+| [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
+| [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,4 +109,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
+## Data Stream
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
