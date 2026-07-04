@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1143-longest-common-subsequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1143-longest-common-subsequence) |
@@ -67,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
@@ -83,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
