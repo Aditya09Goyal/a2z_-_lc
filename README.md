@@ -54,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
+| [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Breadth-First Search
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
+| [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
+| [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Binary Tree
 |  |
