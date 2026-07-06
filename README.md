@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1143-longest-common-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
+## Two Pointers
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
