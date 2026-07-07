@@ -33,6 +33,7 @@
 | [1143-longest-common-subsequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1463-cherry-pickup-ii) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 ## Backtracking
 |  |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 <!---LeetCode Topics End-->
