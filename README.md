@@ -27,6 +27,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0279-perfect-squares) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0494-target-sum) |
@@ -82,6 +83,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
