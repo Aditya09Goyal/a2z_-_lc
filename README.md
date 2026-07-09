@@ -18,6 +18,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 | [1463-cherry-pickup-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1463-cherry-pickup-ii) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Dynamic Programming
 |  |
@@ -67,11 +68,13 @@
 | [0085-maximal-rectangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0853-car-fleet](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0853-car-fleet) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0085-maximal-rectangle) |
 | [0853-car-fleet](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0853-car-fleet) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
 | [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
