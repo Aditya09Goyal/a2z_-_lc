@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0120-triangle) |
@@ -99,6 +100,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0853-car-fleet) |
@@ -168,6 +170,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
