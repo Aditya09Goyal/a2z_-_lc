@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0198-house-robber) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0494-target-sum) |
 | [0853-car-fleet](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
@@ -32,6 +33,7 @@
 | [0279-perfect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0279-perfect-squares) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0435-non-overlapping-intervals) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 ## Backtracking
@@ -103,6 +106,7 @@
 | [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
