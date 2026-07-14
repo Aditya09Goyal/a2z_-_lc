@@ -86,6 +86,7 @@
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
+| [1797-design-authentication-manager](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1797-design-authentication-manager) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Breadth-First Search
 |  |
@@ -125,6 +126,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
+| [1797-design-authentication-manager](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1797-design-authentication-manager) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Binary Tree
 |  |
@@ -136,6 +138,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0021-merge-two-sorted-lists) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
+| [1797-design-authentication-manager](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1797-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
