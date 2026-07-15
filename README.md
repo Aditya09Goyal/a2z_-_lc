@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0120-triangle) |
@@ -56,6 +57,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0494-target-sum) |
 ## String
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0164-maximum-gap) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0354-russian-doll-envelopes) |
