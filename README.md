@@ -155,6 +155,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0050-powx-n) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
