@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
@@ -107,6 +108,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
@@ -187,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0018-4sum) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
