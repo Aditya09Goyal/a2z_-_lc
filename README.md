@@ -11,6 +11,7 @@
 | [0085-maximal-rectangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0198-house-robber) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0164-maximum-gap) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
