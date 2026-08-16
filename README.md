@@ -215,4 +215,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
