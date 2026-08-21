@@ -219,5 +219,6 @@
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
