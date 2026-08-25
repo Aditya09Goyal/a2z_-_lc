@@ -219,6 +219,7 @@
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1148-article-views-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
