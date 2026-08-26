@@ -218,6 +218,7 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1280-students-and-examinations) |
